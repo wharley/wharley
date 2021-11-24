@@ -1,4 +1,4 @@
-![image](https://avatars.githubusercontent.com/u/11954498?s=400&u=a01ddf2eaf327f7a386e6a1dbee6cfe302253444&v=4)
+![image](https://gist.githubusercontent.com/wharley/2accfe50c42f1adc19b9bb5ef012f090/raw/fab68e0ea3a4a777f1c95c98f2ed20353c2ad054/profile-new-removebg-preview.png)
 
 # Hi there 👋 I'm Wharley 👨‍💻
 
