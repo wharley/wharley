@@ -1,4 +1,4 @@
-![image](https://gist.githubusercontent.com/wharley/2accfe50c42f1adc19b9bb5ef012f090/raw/fab68e0ea3a4a777f1c95c98f2ed20353c2ad054/profile-new-removebg-preview.png)
+![image](https://gist.githubusercontent.com/wharley/2accfe50c42f1adc19b9bb5ef012f090/raw/5f28c03523daaa25b02066c58eaf8be64c2b578e/profile-new-removebg-preview.png)
 
 # Hi there 👋 I'm Wharley 👨‍💻
 
