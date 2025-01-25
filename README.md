@@ -4,7 +4,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932) <br /> <br />
 
-_Software Engineer at [Voa Hotéis](https://www.voahoteis.com.br/)_
+_CTO e Co-founder at [Nuuh Tecnologia & Inovação](https://nuuh.cloud)_
 <br /><br />
 
 # 🔧 Technologies & Tools
