@@ -1,20 +1,88 @@
-![image](https://gist.githubusercontent.com/wharley/2accfe50c42f1adc19b9bb5ef012f090/raw/5f28c03523daaa25b02066c58eaf8be64c2b578e/profile-new-removebg-preview.png)
+# Hey, I'm Wharley 👋
 
-# Hi there 👋 I'm Wharley 👨‍💻
+### I build software. Now I'm building what comes next.
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932) <br /> <br />
+**Software Engineer · Builder · Former CTO**
 
-_CTO e Co-founder at [Nuuh Tecnologia & Inovação](https://nuuh.cloud)_
-<br /><br />
+I've spent over **20 years building software**, from web and mobile applications to complex platforms and products used in the real world.
 
-# 🔧 Technologies & Tools
+I've been a developer, tech lead, CTO and co-founder. I've built products from scratch, led technical decisions, solved production problems and learned that shipping is only the beginning.
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br />
+Today, I'm exploring the intersection of **software engineering, AI agents and developer experience**.
 
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![image](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) <br />
+I don't just want to use AI to write code. I want to build better ways for humans and AI to work together.
 
-![image](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) <br />
+📍 Brazil 🇧🇷 · Building for the world 🌎
 
-![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white) ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) <br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wharley)
 
-![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+---
+
+### 🚀 What I'm building
+
+**[DevCommandCenter](https://github.com/wharley/DevCommandCenter)**
+
+An open-source desktop workspace for working with multiple AI coding agents.
+
+Built with **Rust, Tauri, React and TypeScript**.
+
+- Orchestrate coding agents across different providers.
+- Delegate tasks between AI models.
+- Review code changes before applying them.
+- Work with Git, diffs, conflicts and isolated worktrees.
+- Keep developers in control of what AI builds.
+
+**The goal isn't to replace developers. It's to give them better tools.**
+
+[Explore the repository →](https://github.com/wharley/DevCommandCenter)
+
+---
+
+### 🧠 What I work with
+
+**Languages & Core**
+
+TypeScript · JavaScript · Rust · SQL
+
+**Frontend & Mobile**
+
+React · Next.js · React Native · Expo · Tailwind CSS
+
+**Backend & Infrastructure**
+
+Node.js · NestJS · PostgreSQL · Supabase · Prisma · Docker · AWS
+
+**Desktop & AI Engineering**
+
+Tauri · AI Agents · LLM APIs · Agent Orchestration · Developer Tools
+
+**Architecture & Engineering**
+
+System Design · API Design · Full-Stack Development · Technical Leadership
+
+---
+
+### 💭 A few things I believe
+
+- **Build to solve real problems.** The best ideas often start with your own pain.
+- **AI is a tool, not a substitute for engineering judgment.**
+- **Simple experiences require serious engineering.**
+- **Shipping matters.** A working product teaches more than an endless roadmap.
+- **Keep learning.** Twenty years in software, and there's still so much to discover.
+
+---
+
+### ⚡ Beyond the code
+
+I'm a husband, a father, and someone who believes technology should serve people.
+
+I started my journey in a small town in Minas Gerais, Brazil. Software opened doors I never imagined.
+
+More than two decades later, I'm still curious, still learning, and still building.
+
+**From Brazil, building for the world. 🇧🇷**
+
+---
+
+*Still building. Still learning. Still shipping.*
